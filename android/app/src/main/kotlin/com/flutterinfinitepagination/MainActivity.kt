@@ -1,4 +1,4 @@
-package com.wehealth.wehealth
+package com.flutterinfinitepagination
 
 import io.flutter.embedding.android.FlutterActivity
 
