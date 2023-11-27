@@ -7,7 +7,7 @@ class HomeController extends GetxController {
   //TODO: Implement HomeController
 
   final UserRepository _userRepository = UserRepository();
-  final int _limit = 15;
+  final int _limit = 10;
   int _page = 1;
   var users = <User>[].obs;
   var hasMore = true.obs;

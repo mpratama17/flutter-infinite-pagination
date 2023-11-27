@@ -26,7 +26,7 @@ class HomeView extends GetView<HomeController> {
 
     return Scaffold(
         appBar: AppBar(
-          title: Text('List User'),
+          title: Text('User'),
           // centerTitle: true,
         ),
         body: Obx(
